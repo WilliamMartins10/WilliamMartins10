@@ -5,10 +5,6 @@
 
 ### 🌱 I’m currently learning Programming.
 
-<div align="center">  
-  <img width="49%" height="195px" src="[https://github-readme-stats.vercel.app/api?username=T0202&show_icons=true&count_private=true&hide_border=true&title_color=4b1c71&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117](https://github.com/WilliamMartins10)"/> 
-  <img width="41%" height="195px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Tayna0202&layout=compact&hide_border=true&title_color=4b1c71&text_color=00bfbf&bg_color=0d1117](https://github.com/WilliamMartins10)" />
-</div>
 
 ### Technologies currently studied
 
