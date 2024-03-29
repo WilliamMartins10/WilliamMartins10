@@ -11,14 +11,23 @@
 
 <div align="center">  
 
-##
-### 🌱 Atualmente estou aprendendo Programação.
+- 🎓 Graduando em Ciência da Computação.
+- 💼 Trabalho como desenvolvedor de software.
+- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em diversas tecnologias.
 
-# Tecnologias atualmente estudando 👨‍💻 
 
+## Tecnologias
+
+### Front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="100"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="100"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100"/>
+<https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
+
+ ### Back-end
+<https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
+<https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
+
 
 
 <div>
