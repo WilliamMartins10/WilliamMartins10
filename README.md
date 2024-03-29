@@ -11,7 +11,7 @@
 
 <div align="center">  
 
-- 🎓 Graduando em Ciência da Computação.
+- 🎓 Analise Desenvolvimento de Sistemas.
 - 💼 Trabalho como desenvolvedor de software.
 - 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em diversas tecnologias.
 
@@ -24,13 +24,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100"/>
 <https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
 
+<br><br>
+
  ### Back-end
 <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="100">
 <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100">
+<img src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100">
 
 
 <div>
-<br>
+ 
+<br><br>
 
 [![contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://web.whatsapp.com/)
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willysmartins/)
